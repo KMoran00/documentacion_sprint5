@@ -1,15 +1,13 @@
-site_name: Documentació Sprint 5 - Equipo 4
-site_description: Documentació tècnica del desplegament - DAW IES Enric Valor
-site_author: Kirsha Morán, Lukas Tamulaitis
+site_name: Documentación Sprint 5 - Equipo 4
+site_description: Documentación técnica del Sprint 5 - DAW IES Enric Valor
+site_author: Kirsha L. Morán Martínez, Lukas Tamulaitis Volkov
 
 theme:
   name: material
 
 nav:
-  - Inicio: index.md
-  - Arquitectura: arquitectura.md
-  - Instalación: instalacion.md
-  - Configuración: configuracion.md
-  - Desplegamiento: desplegamiento.md
-  - Pruebas: pruebas.md
-  - Incidencias: incidencias.md
+  - Introducción: index.md
+  - DIW: diw.md
+  - DWEC: dwec.md
+  - Proyecto Intermodular: proyecto.md
+  - Conclusión: conclusion.md
